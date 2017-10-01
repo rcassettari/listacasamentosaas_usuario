@@ -1,0 +1,5 @@
+br\com\tsi\listacasamentosaas\controller\UsuarioController.class
+br\com\tsi\model\Usuario.class
+br\com\tsi\listacasamentosaas\ListaCasamentoSaasUsuarioApplication.class
+br\com\tsi\listacasamentosaas\config\MongoConfig.class
+br\com\tsi\listacasamentosaas\repository\UsuarioRepository.class
